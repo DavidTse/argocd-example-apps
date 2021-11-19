@@ -1,0 +1,5 @@
+namespace: argocd-auto-sync
+resources:
+- bgd-svc.yaml
+- bgd-deployment.yaml
+- bgd-route.yaml
